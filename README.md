@@ -4,9 +4,13 @@ Materia: Algoritmos y Programación 1
 
 
 Catedra: Essaya
+
 Practica: Grace
+
 Padron: 103471
+
 Ayudante a Cargo: Daniela Riesgo
+
 Alumno: Colombo, Juan Ignacio
 
 
